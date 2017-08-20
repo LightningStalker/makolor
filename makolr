@@ -1,5 +1,5 @@
 #!/bin/bash -e
-# The `makolor` script
+# The `makolr` script
 # The Lightning Stalker, originally by Reza Toghraee
 # https://stackoverflow.com/questions/14922960/is-there-an-easy-way-to-color-code-the-compiler-outputs
 
